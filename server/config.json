@@ -1,0 +1,9 @@
+{
+  "api_key": "your_api_key_here",
+  "clans": [
+    {
+      "tag": "#R9QVVUG9",
+      "inactive_days": 1
+    }
+  ]
+}

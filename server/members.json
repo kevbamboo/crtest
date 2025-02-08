@@ -1,0 +1,140 @@
+{
+  "#R9QVVUG9": [
+    {
+      "tag": "#JJ98LRV",
+      "name": "DavidGoodman",
+      "role": "coLeader",
+      "lastSeen": "20250204T150539.000Z",
+      "expLevel": 58,
+      "trophies": 9000,
+      "arena": {
+        "id": 54000020,
+        "name": "Legendary Arena"
+      },
+      "clanRank": 2,
+      "previousClanRank": 2,
+      "donations": 241,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#CUCGJYP09",
+      "name": "DARK",
+      "role": "member",
+      "lastSeen": "20250202T061416.000Z",
+      "expLevel": 57,
+      "trophies": 9000,
+      "arena": {
+        "id": 54000020,
+        "name": "Legendary Arena"
+      },
+      "clanRank": 3,
+      "previousClanRank": 3,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#G2J2YY8VJ",
+      "name": "HoHa",
+      "role": "coLeader",
+      "lastSeen": "20250204T203747.000Z",
+      "expLevel": 66,
+      "trophies": 8914,
+      "arena": {
+        "id": 54000019,
+        "name": "PANCAKES!"
+      },
+      "clanRank": 5,
+      "previousClanRank": 5,
+      "donations": 212,
+      "donationsReceived": 60,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#UQ8RLRGP0",
+      "name": "Milozz",
+      "role": "elder",
+      "lastSeen": "20250204T125457.000Z",
+      "expLevel": 57,
+      "trophies": 8530,
+      "arena": {
+        "id": 54000019,
+        "name": "PANCAKES!"
+      },
+      "clanRank": 6,
+      "previousClanRank": 6,
+      "donations": 134,
+      "donationsReceived": 160,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#UQ29QG9YQ",
+      "name": "King's Towe",
+      "role": "coLeader",
+      "lastSeen": "20250204T092313.000Z",
+      "expLevel": 58,
+      "trophies": 8347,
+      "arena": {
+        "id": 54000018,
+        "name": "Clash Fest"
+      },
+      "clanRank": 9,
+      "previousClanRank": 9,
+      "donations": 95,
+      "donationsReceived": 120,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#U2LPCJPJG",
+      "name": "Spark",
+      "role": "member",
+      "lastSeen": "20250205T010914.000Z",
+      "expLevel": 45,
+      "trophies": 7766,
+      "arena": {
+        "id": 54000017,
+        "name": "Boot Camp"
+      },
+      "clanRank": 11,
+      "previousClanRank": 11,
+      "donations": 104,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#JUVUCJVRQ",
+      "name": "kevbamboo",
+      "role": "elder",
+      "lastSeen": "20250204T030848.000Z",
+      "expLevel": 47,
+      "trophies": 7684,
+      "arena": {
+        "id": 54000017,
+        "name": "Boot Camp"
+      },
+      "clanRank": 12,
+      "previousClanRank": 12,
+      "donations": 56,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#YCJR8882P",
+      "name": "Eleven",
+      "role": "member",
+      "lastSeen": "20250130T121623.000Z",
+      "expLevel": 33,
+      "trophies": 6180,
+      "arena": {
+        "id": 54000014,
+        "name": "Royal Crypt"
+      },
+      "clanRank": 31,
+      "previousClanRank": 31,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    }
+  ]
+}
